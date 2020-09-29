@@ -5,7 +5,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-This repository is useful for any developer looking to review specific Leet Code challenges with solutions in JavaScript. Within the each file are the instructions for the challenge, the solution, and thorough comments regarding the solution. I created and utilized this project for JavaScript technical interview challenges. Always keep those skills sharp!
+This repository is useful for any developer looking to review specific Leet Code challenges with solutions in JavaScript. Within the each file are the instructions for the challenge, the solution, and thorough comments regarding the solution. I created and utilized this project for JavaScript technical interview challenges. Always keep those problem solving skills sharp!
 
 Future plans for this project include: adding more code challenges with thorough solutions
 
