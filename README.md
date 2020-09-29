@@ -27,11 +27,10 @@ Create a new branch
 After you have created your branch, choose which file you want to review:
 
 ```sh
-cd <folder of your choice>
 node <filename>
 ```
 
-<img align="center" src=https://user-images.githubusercontent.com/57102880/94498988-8cf73e80-01c9-11eb-9b6b-afddb218296d.png width="600" height="350">
+<img align="center" src=https://user-images.githubusercontent.com/57102880/94499362-7998a300-01ca-11eb-8386-64d8ee40ad1e.png width="600" height="350">
 
 ## Release History
 
